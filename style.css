@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(5, 5, 5);
+    color:white;
+   }
+
+   a:hover{
+    color:green;
+   }
+
+   h1:hover{
+    color:red;
+   }
+
+   h3:hover{
+    color:red;
+   }
+
+   h4:hover{
+    color:red;
+   }
+
+img{
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 20%;
+}   
